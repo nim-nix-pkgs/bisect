@@ -11,7 +11,6 @@
   inputs.src-bisect-master.ref   = "refs/heads/master";
   inputs.src-bisect-master.owner = "berquist";
   inputs.src-bisect-master.repo  = "bisect";
-  inputs.src-bisect-master.dir   = "";
   inputs.src-bisect-master.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
