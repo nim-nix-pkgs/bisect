@@ -7,7 +7,7 @@
   "license": "MIT",
   "web": "https://github.com/berquist/bisect",
   "refs": [
-    "fatal: unable to access 'https://github.com/berquist/bisect/': Error in the HTTP2 framing layer",
+    "fatal: unable to access 'https://github.com/berquist/bisect/': Failed to connect to github.com port 443 after 128948 ms: Connection timed out",
     ""
   ],
   "heads": []
